@@ -1,0 +1,16 @@
+permission denied for table products
+duplicate key value violates unique constraint "suppliers_name_key"
+DETAIL:  Key (name)=(Abc) already exists.
+
+not all arguments converted during string formatting
+not all arguments converted during string formatting
+not all arguments converted during string formatting
+not all arguments converted during string formatting
+no results to fetch
+no results to fetch
+invalid input syntax for type date: "30 days"
+LINE 1: ...LETE FROM orders WHERE order_date < CURRENT_DATE - '30 days'
+                                                              ^
+
+cannot unpack non-iterable NoneType object
+cannot unpack non-iterable NoneType object
